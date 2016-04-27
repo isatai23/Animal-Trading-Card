@@ -1,0 +1,45 @@
+/* add your CSS here */
+#main {
+	margin: 45px auto;
+	width: 320px;
+	border: 1px solid #d3d3d3;
+	/*padding: 5px 10px;*/
+	-webkit-box-shadow: -1px 10px 21px -5px rgba(148,145,148,1);
+	-moz-box-shadow: -1px 10px 21px -5px rgba(148,145,148,1);
+	box-shadow: -1px 10px 21px -5px rgba(148,145,148,1);
+	font-family: 'Open Sans', sans-serif;
+	background-color: #dad26a;
+}
+
+#cardName {
+	font-size: 23px;
+	margin: 15px 15px 0px 15px;
+}
+
+#image {
+	margin: 5px 10px 5px 10px;
+	width: 300px;
+}
+
+#information {
+	width: 276px;
+	margin: 0px 10px 10px 10px;
+	padding: 0px 10px;
+	border: 2px solid #806b15;
+  font-weight: 500;
+	font-size: 12px;
+	background-color: #ffefaa;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.bold {
+	font-weight: bolder;
+}
+
+.italic {
+	font-style: italic;
+}
